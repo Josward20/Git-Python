@@ -11,3 +11,6 @@ print("2 mas 2 es igual a "+ str(a))
 
 for i in range(5):
     print(str(i)+" hola")
+    
+    
+    print ("Que paso ")
