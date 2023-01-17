@@ -1,0 +1,15 @@
+Saca los siguientes datos:
+-Modelo de carro que produjo más ingresos (limbo, normal, etc)--------  nice
+-Cuál tipo de carro se vendió más, manual o automatico.  ----------- nice       
+-Los 3 dias que produjeron más ventas  ----------- nice 
+-Hora promedio de venta. ------------- nice
+-Transforma los valores de la fecha para que estén en formato venezolano (dia, mes, año, hora en formato de 12 horas)
+-Qué día empezaron y qué dia terminaron las ventas. -------- nice
+-Los ingresos por ventas de los últimos 7 días fueron mayores que los primeros 7?
+
+
+
+
+index,dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,nrOfPictures,postalCode,lastSeen
+
+índice, fecha rastreada, nombre, vendedor, tipo de oferta, precio, aproximado, tipo de vehículo, año de registro, caja de cambios, potencia PS, modelo, kilómetro, mes de registro, tipo de combustible, marca, daño no reparado, fecha de creación, nrOfPictures, código postal, último visto
